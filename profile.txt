@@ -1,0 +1,599 @@
+# PERSONAL KNOWLEDGE BASE: ADNANE BEN AMMAR
+
+## 1. WHO I AM
+
+My name is Adnane Ben Ammar. I am a Tunisian engineering student specializing in the direction of Artificial Intelligence and Data Science, with an educational background in computing, electronics, and industrial automation. I am interested in understanding how technical systems work, how data can be transformed into useful information, and how artificial intelligence can solve real-world problems.
+
+My professional identity is built around the intersection of artificial intelligence, data science, machine learning, software development, and industrial applications. I am not interested only in developing models or writing code that works in a notebook. I want to understand the entire process: identifying a problem, collecting and processing data, selecting an appropriate algorithm, building an API, integrating the solution into an application, presenting the results through a dashboard, and making the final system useful to people.
+
+I consider myself a practical, technically curious, and continuously developing engineer. I enjoy exploring new technologies, understanding why they work, comparing different approaches, debugging problems, and improving an implementation until the different components work together. I often ask detailed questions because I want to understand the reasoning behind a solution rather than blindly copy code.
+
+My current career direction focuses on AI engineering, data science, machine learning, computer vision, generative AI, retrieval-augmented generation (RAG), data analysis, and Python-based application development. I am also interested in agentic AI, business intelligence, data engineering, and MLOps because I want to understand how AI systems can move from experimentation toward reliable applications.
+
+I am ambitious about my professional future and want to build a credible portfolio that demonstrates practical abilities rather than relying exclusively on academic qualifications or lists of technologies. I want recruiters and technical teams to see that I can understand a problem, develop a solution, explain my decisions, recognize limitations, and continue improving the result.
+
+I am based in Tunisia and am interested in professional opportunities both locally and internationally. I have explored opportunities in France, Germany, Portugal, and other European destinations, as well as international programs. I am particularly interested in a substantial final-year internship or PFE that allows me to apply my engineering knowledge to a real project and develop stronger professional experience.
+
+## 2. EDUCATIONAL BACKGROUND
+
+### Current engineering studies
+
+I study at EPI Digital School, also known as École Pluridisciplinaire Internationale, in Sousse, Tunisia.
+
+My engineering studies are oriented toward Artificial Intelligence and Data Science. My academic and professional interests include machine learning, deep learning, data analysis, computer vision, software engineering, and intelligent applications.
+
+My earlier descriptions of my engineering curriculum distinguish between the common-core engineering year and the later specialization in AI and Data Science. More recent CV wording describes me as a final-year engineering student in AI and Data Science. My expected completion date has previously been stated as 2027. My current year, official specialization designation, and graduation date should be confirmed whenever they are needed for formal applications.
+
+A dual-degree program or arrangement involving Beijing Polytechnic University has also been mentioned as being in progress. This should be described as ongoing rather than as a completed second degree.
+
+I want to use my engineering education as a foundation for a career in applied AI and data-driven software development. I value learning theoretical concepts, but I also want to understand how to implement them, evaluate them, and integrate them into functional systems.
+
+### Previous university studies
+
+I studied at ISSAT Mahdia in Tunisia from 2021 to 2024.
+
+My qualification has been described in previous conversations using variations of Informatique et Automatique, industrial computing and automation, and electronics/electrotechnics/automation. The exact official diploma title should be taken from my diploma or transcript.
+
+I reported an academic average of approximately 17/20 during this period.
+
+This stage of my education gave me a technical foundation in computing and automation. It also contributed to my interest in connecting software and intelligent algorithms with real systems and industrial processes.
+
+### Secondary education
+
+I attended Lycée Cité Riadh 2 in Ksar Hellal, Monastir, Tunisia, from 2017 to 2021, where I completed a technological baccalaureate.
+
+## 3. MY PROFESSIONAL INTERESTS AND CAREER DIRECTION
+
+I am particularly interested in professional roles where AI and data are used to solve concrete problems. My target positions include:
+
+- AI Developer and AI Engineer.
+- Data Scientist and Machine Learning Engineer.
+- Data Analyst and Business Analyst.
+- BI Developer and Power BI Developer.
+- Python Developer.
+- Computer Vision Engineer or AI application developer.
+- Generative AI and RAG application developer.
+- Data Engineer or software developer working with data-intensive systems.
+- Junior MLOps or AI deployment-oriented roles.
+
+I am interested in these roles because they overlap with my technical background and the projects I have been building. I do not consider myself automatically qualified for every position simply because I have studied the associated technologies. I want to evaluate opportunities honestly according to their requirements and identify the skills I still need to strengthen.
+
+My strongest professional direction is applied AI combined with software engineering. I want to be able to develop a machine-learning model and also understand how to expose it through an API, connect it to a database, integrate it into a frontend, monitor its outputs, and explain its behavior to users.
+
+I am especially attracted to projects that have a clear problem, a measurable objective, and a result that can be demonstrated. Examples include industrial quality control, predictive maintenance, medical decision-support prototypes, energy forecasting, recommendation systems, and document-based AI assistants.
+
+## 4. INDUSTRIAL EXPERIENCE AT SARTEX
+
+I have discussed multiple internships and industrial projects connected with Sartex. These experiences are important because they show how my interests in data science and AI developed through practical industrial problems.
+
+The exact titles and dates of the placements should be confirmed against my official internship documents before they are used in a formal CV.
+
+### Predictive maintenance and industrial data
+
+One of my main areas of experience is predictive maintenance using industrial or IoT-related data.
+
+The objective was to use data processing and machine-learning methods to identify possible equipment failures early and help improve maintenance decisions.
+
+The work involved Python, SQL, data processing, ETL pipelines, machine-learning methods, and reporting.
+
+In my project descriptions, I reported approximately 78% early-failure detection and a reduction of around 60% in manual reporting effort through a Python/SQL pipeline. These figures refer to the reported project context and should not be presented as independently verified company-wide results.
+
+This experience strengthened my interest in applying data science to operational problems. It also helped me understand that a useful AI solution depends on data quality, the processing pipeline, the relevance of the model, and the way results are communicated to people who need them.
+
+### Operations and data internship, July–August 2025
+
+I discussed an operations and data internship at Sartex during July and August 2025.
+
+The work involved data analysis, operational reporting, and KPI monitoring, with tools including Python, SQL, Power BI, and Excel.
+
+This experience is relevant to Data Analyst, Business Analyst, BI Developer, and Data Scientist applications because it connects technical skills with operational information and decision support.
+
+### Computer vision and quality control, 2026
+
+I also worked on an industrial quality-control project involving the automation of pattern or template conformity checks. This work is associated with my Gabarit Vision IA project.
+
+The project combines document and image processing, computer vision, segmentation, backend APIs, and a frontend dashboard. Its objective is to make conformity checks more systematic and to help identify missing or unexpected pieces.
+
+This experience reflects my interest in developing AI solutions that address a specific operational problem rather than implementing algorithms without a clear use case.
+
+### Broader lessons from industrial experience
+
+My industrial experience has helped shape the way I approach technical projects. I try to begin with the actual problem, understand the existing workflow, identify repetitive or error-prone tasks, and determine where automation or AI could be useful.
+
+I am interested in reducing manual work, improving consistency, making results traceable, and presenting information in a format that helps users act on it.
+
+When describing my industrial experience, the distinction between a prototype, a tested implementation, and a production deployment must remain clear.
+
+## 5. MAIN PROJECT: GABARIT VISION IA
+
+### Project overview
+
+Gabarit Vision IA, also referred to as Gabarit-vision-IA, is a computer-vision project designed to automate conformity checking for industrial pattern or template layouts.
+
+The project is associated with my GitHub username, Adnane-coder.
+
+The underlying problem is that checking industrial patterns manually can require time and careful visual inspection. The project aims to support this process by comparing visual information against references and identifying potential conformity issues.
+
+### Intended workflow
+
+The project works toward a pipeline that connects reference documents, image processing, AI-based segmentation, conformity checks, and a dashboard.
+
+The project context includes PDF reference material associated with 1:1 Gerber AccuMark patterns and an approximate tolerance of plus or minus three centimetres.
+
+The intended checks include identifying missing pieces and unexpected pieces and producing a structured conformity result.
+
+The application is designed around a React frontend and a FastAPI backend.
+
+### Technical approach
+
+Canny edge detection was considered or used as an image-processing baseline, while U-Net segmentation was introduced as an alternative for identifying pattern shapes.
+
+The development context mentions four traces and 125 annotated pieces. These figures describe the project context and should not be treated as proof that the system generalizes to every industrial pattern.
+
+The repository configuration has included MOCK_MODE=true and AI_ENABLED=false as default settings. This distinction is important: a mock demonstration can show the application workflow without proving that live AI inference is enabled. The project has also had a real-mode configuration context in which four out of four checkpoints were described as satisfied.
+
+### What the project demonstrates
+
+This project demonstrates my interest in connecting several technical components into a coherent application.
+
+It involves understanding an industrial problem, handling visual or document-based inputs, exploring computer-vision methods, comparing alternatives, building an API, and integrating the workflow into a user interface.
+
+The project is relevant to computer vision, applied machine learning, AI engineering, backend development, and full-stack AI application development.
+
+It also illustrates an important principle in my approach: an AI system should not be judged only by whether a model produces a prediction. The complete workflow must be understandable, testable, and useful.
+
+I should not claim that the project has been deployed at industrial scale or adopted across a company unless that has been confirmed.
+
+## 6. MAIN PROJECT: MEDICALE
+
+### Project overview
+
+Medicale, also referred to as Medicale PFA, is a medical recommendation and risk-scoring application.
+
+The project explores how data processing, recommendation systems, contraindication checks, and explainability can be combined in an application intended to support medication-related workflows.
+
+The application concept includes patient, doctor, and pharmacist roles, medication information, allergy checks, drug-interaction checks, supporting scans or information, and explanations associated with recommendations.
+
+### Architecture and technologies
+
+The technical context includes:
+
+- Angular 18 for the frontend.
+- FastAPI for the backend.
+- PostgreSQL for the database.
+- Python for recommendation and risk-scoring logic.
+- API communication between the frontend and backend.
+
+The application includes a BLOCKED status for contraindicated recommendations or situations. This is important because it reflects an effort to make safety-related restrictions explicit rather than simply returning recommendations without safeguards.
+
+The local development context has included the backend running on port 8000 and the Angular application on port 4200.
+
+### Data and evaluation
+
+The project uses DrugBank-related data. The reported data counts were 16,762 raw records, 15,235 unique records, and 4,466 approved records.
+
+Reported ranking metrics included:
+
+- Precision@5: 0.122.
+- NDCG: 0.076.
+- MRR: 0.129.
+
+These values describe a particular project evaluation context. They should not be represented as clinical validation or proof that the application is safe for real-world prescribing.
+
+The project discussions have included approaches such as BERT, graph neural networks, XGBoost, and SHAP. The exact methods currently implemented should be confirmed before describing all of them as part of the final architecture.
+
+My local development environment was described as including an NVIDIA GTX 1650 Max-Q GPU, with PyTorch CUDA available.
+
+### Why this project matters
+
+Medicale combines data handling, recommendation logic, risk-oriented checks, explainability, backend APIs, relational databases, and frontend development.
+
+It reflects my interest in developing AI applications that do more than return a prediction. I want systems to make their outputs understandable and to handle known restrictions explicitly.
+
+The project is an academic and technical prototype, not a substitute for professional medical judgment. It should not be described as clinically approved or suitable for unsupervised treatment decisions without formal evidence.
+
+## 7. OTHER AI AND DATA SCIENCE PROJECTS
+
+### Predictive maintenance classification
+
+I have worked with a CMAPSS-like dataset described as containing 20,631 rows and 14 features.
+
+One experimental setup used SMOTE to address class imbalance and an 85/15 data split. An XGBoost model was reported to achieve approximately 98.2% recall, 96.1% precision, and an AUC of 0.999.
+
+These are reported experimental metrics. They must be interpreted in the context of the dataset, split, preprocessing, and evaluation methodology rather than treated as guaranteed performance on new industrial data.
+
+This project demonstrates my interest in classification, predictive maintenance, imbalanced datasets, and model evaluation.
+
+### Energy forecasting and monitoring
+
+I have also discussed an energy forecasting and monitoring workflow involving IoT data, a real-time FastAPI endpoint, alerts, and Power BI visualization.
+
+The general idea is to transform incoming sensor or energy data into information that can support monitoring, forecasting, and operational decisions.
+
+This project aligns with my interest in combining data pipelines, APIs, analytics, and dashboards.
+
+No specific forecasting accuracy or energy-saving result should be claimed unless it is documented.
+
+### Explainable recommendation systems
+
+I am interested in recommendation systems and methods that make their outputs easier to interpret.
+
+SHAP has been discussed in the context of explainability, and Medicale is a relevant example of a recommendation-oriented application.
+
+My goal is to understand not only which output a model produces, but also how to explain its behavior and communicate its limitations.
+
+## 8. GENERATIVE AI COURSEWORK
+
+I have worked on an EPI practical assignment on generative AI under Dr. Ing. Takwa Ben Aïcha Gader.
+
+The practical work is being carried out in Kaggle Notebook rather than Google Colab.
+
+### Stable Diffusion
+
+The image-generation section uses the model reference stable-diffusion-v1-5/stable-diffusion-v1-5.
+
+The working environment has included CUDA and torch.float16. Generated files are organized under /kaggle/working/outputs/, with separate directories for images, audio, text, and multimodal outputs.
+
+The assignment includes recording experiments in a CSV file called journal_experiences.csv. The logging structure contains fields such as the experiment identifier, model, input, seed, parameters, duration, file path, and comments.
+
+This logging approach helps make experiments more organized and reproducible.
+
+### Audio-generation section
+
+The audio section involved checking Python and package compatibility.
+
+The environment context included Python 3.13.15, TensorFlow 2.20.0, note_seq 0.0.5, pretty_midi, and IPython. Magenta was not installed, and I selected option A when deciding how to proceed.
+
+I have worked through debugging issues such as missing variables, missing imports, and incorrect image paths. These are ordinary development issues that require careful inspection of the environment and file locations.
+
+When discussing this coursework, the assistant should distinguish between the components that have actually been completed and those that remain in progress.
+
+## 9. TECHNICAL SKILLS
+
+My technical skills and learning interests cover several connected areas.
+
+### Programming and data processing
+
+- Python.
+- SQL.
+- pandas and data manipulation.
+- Data cleaning and transformation.
+- ETL pipelines.
+- Excel.
+- Git and GitHub.
+
+### Machine learning and data science
+
+- scikit-learn.
+- XGBoost.
+- Classification and model evaluation.
+- Predictive maintenance.
+- Anomaly detection and failure prediction.
+- Recommender systems.
+- Imbalanced-data techniques, including SMOTE.
+- Explainability concepts and SHAP.
+
+### Deep learning and computer vision
+
+- PyTorch.
+- TensorFlow.
+- Neural networks.
+- Convolutional neural networks.
+- Image processing.
+- Image segmentation.
+- U-Net.
+- Canny edge detection.
+- Computer-vision application development.
+
+### Generative AI and language technologies
+
+- Generative AI concepts.
+- Transformer-based models.
+- BERT-related approaches.
+- Hugging Face ecosystem.
+- Retrieval-Augmented Generation.
+- LLM-powered applications.
+- Interest in agentic AI and tool-using systems.
+
+### Backend and frontend development
+
+- FastAPI.
+- REST APIs.
+- Angular, including Angular 18.
+- React.
+- PostgreSQL.
+- API integration.
+- Full-stack AI application architecture.
+
+### Business intelligence
+
+- Power BI.
+- Excel reporting.
+- KPI dashboards.
+- Operational data analysis.
+- Visualization and reporting.
+
+### Development and deployment interests
+
+- Docker has been discussed in project context.
+- Local environment configuration.
+- API execution and testing.
+- Dependency management.
+- MLOps and DevOps concepts.
+- Reproducible experimentation.
+- Application deployment and maintenance.
+
+This list includes technologies used, studied, or explored. It does not mean that I have equal proficiency in every tool. For applications, the assistant should prioritize technologies supported by concrete projects and describe other tools as learning interests where appropriate.
+
+## 10. CERTIFICATIONS AND CONTINUOUS LEARNING
+
+My previous conversations have included certifications, courses, and learning paths related to:
+
+- NVIDIA Deep Learning Fundamentals and anomaly detection/data analytics.
+- Cisco Data Science and Python.
+- Cisco Ethical Hacker learning.
+- Cisco Learn-A-Thon 2025.
+- Enterprise Data Science.
+- IBM data and AI fundamentals.
+- CCNA modules.
+- AWS Cloud Foundations.
+- Google Professional Machine Learning Engineer coursework.
+- Oracle OCI 2025 Generative AI Professional.
+- Azure Fundamentals, which was planned or under consideration.
+
+Some of these may represent courses or learning paths rather than completed certifications. The exact title and completion status should be checked before describing any of them as credentials earned.
+
+I am interested in continuous learning because AI technologies evolve quickly. I want to develop my technical foundations while also learning how to build, test, and deploy complete applications.
+
+## 11. RAG, AGENTIC AI, AND MY CURRENT PORTFOLIO DIRECTION
+
+I have been exploring how to build a small but genuine Retrieval-Augmented Generation API using FastAPI, with a target development time of approximately four to six hours for an initial portfolio version.
+
+My objective is to understand the full process rather than simply follow a tutorial without understanding it.
+
+A basic RAG application typically involves:
+
+1. Loading a collection of documents.
+2. Splitting the documents into manageable chunks.
+3. Generating embeddings for those chunks.
+4. Indexing the embeddings in a vector store or another retrieval mechanism.
+5. Retrieving relevant passages in response to a question.
+6. Passing the retrieved context to a language model.
+7. Generating an answer grounded in the available documents.
+8. Exposing the workflow through an API such as FastAPI.
+9. Testing whether the retrieved passages actually support the generated answer.
+
+I want this kind of project to be small enough to complete but strong enough to demonstrate real understanding. Useful portfolio evidence would include a clear README, setup instructions, example questions, a working endpoint, and honest discussion of limitations.
+
+I am also interested in agentic AI. However, I understand that a basic RAG application is not automatically an agentic AI system. RAG focuses on retrieving relevant information and generating grounded answers. Agentic systems generally add capabilities such as tool use, planning, iterative decisions, or multi-step execution.
+
+The personal knowledge base in this document is itself intended for a RAG system. My goal is to create an assistant that can answer questions about my education, experience, projects, skills, professional goals, and preferences using stored information instead of relying on generic assumptions.
+
+The assistant should distinguish known facts from plans and uncertainties. If the answer is not in the knowledge base, it should say that the information is unavailable rather than inventing an answer.
+
+## 12. SOFTWARE DEVELOPMENT AND DEBUGGING EXPERIENCE
+
+I have worked through practical development tasks involving backend and frontend setup, databases, Python environments, APIs, and notebooks.
+
+Examples include:
+
+- Configuring a DATABASE_URL environment variable.
+- Starting and checking PostgreSQL.
+- Installing Python requirements.
+- Running a FastAPI backend with Uvicorn.
+- Running an Angular frontend locally.
+- Understanding how a frontend communicates with a backend.
+- Debugging missing imports and undefined variables.
+- Correcting file paths.
+- Managing local Python environments.
+- Working with Kaggle Notebook dependencies.
+- Organizing generated files and experiment logs.
+- Checking whether AI inference is active or whether a project is running in mock mode.
+
+When I learn a new technology, I prefer practical explanations that show the complete workflow. I want to know which command to run, where to run it, what it does, what output to expect, and how to resolve likely errors.
+
+I value explanations of the underlying reasoning, not just a block of code to copy.
+
+## 13. CAREER GOALS AND FINAL-YEAR INTERNSHIP
+
+My current career goal is to obtain a substantial final-year internship or PFE in AI, Data Science, machine learning, data analysis, or a closely related software field.
+
+I have repeatedly discussed a possible start around January or February 2027. A duration of at least four months has been important, and I have explored opportunities lasting approximately four to six months.
+
+The exact dates and duration depend on my current academic calendar, EPI's rules, and the employer's requirements. The assistant should verify these details before using them in an official application.
+
+I want an internship that provides meaningful technical responsibility and allows me to contribute to a real project. I am interested in opportunities where I can apply my current knowledge, learn from experienced engineers, and develop a stronger portfolio.
+
+I value opportunities that combine a clear project objective with mentorship, technical learning, and the possibility of producing a demonstrable result.
+
+### Geographic interests
+
+I am based in Tunisia and have explored international internships, particularly in Europe, including France, Germany, and Portugal.
+
+I have investigated Erasmus+ traineeships, ErasmusIntern, mobility arrangements, and possible financial support.
+
+When evaluating an opportunity, I consider the technical content, project relevance, internship duration, funding, accommodation support, relocation requirements, and possible future employment opportunities.
+
+These are considerations and preferences, not confirmed funding or employment arrangements.
+
+### Work authorization
+
+For international opportunities, my eligibility depends on the country, internship category, employer, and applicable immigration rules.
+
+I have stated that I may require a visa or immigration authorization for opportunities abroad, including some US-linked internships, even when my university can provide a convention de stage.
+
+A university internship agreement should not be presented as automatic authorization to work in another country. I should not be described as an EU citizen or as having unrestricted EU work rights unless I explicitly confirm that status.
+
+For job applications, the assistant should help me answer work-authorization and sponsorship questions accurately and avoid promising eligibility that has not been established.
+
+## 14. APPLICATIONS AND INTERVIEW PREPARATION
+
+I have explored opportunities involving AI development, data science, data analysis, business intelligence, software engineering, and applied research.
+
+Employers and programs discussed in past conversations include Sensefuel, InspectOS, Etyo, PASS, Société Générale, OECD, the World Bank Group, ENSMA/Futuroscope, FORVIA, RE-Managers GmbH, Elvesys/Elveflow, and M Education.
+
+These names describe opportunities discussed in ChatGPT conversations. They do not automatically mean that every application was submitted, every interview took place, or an offer was received. Current application status must be confirmed.
+
+### Elvesys / Elveflow
+
+I prepared for a prompt-engineering internship interview with Elvesys/Elveflow. The role was described as a six-month internship in Paris without remote work.
+
+The recruiter discussed in the conversation was Maude Marejus. An interview invitation was referenced for 8 October 2026.
+
+For interview preparation, I wanted natural French answers that would be concise enough to deliver comfortably in approximately 30–40 seconds.
+
+My preferred personal narrative connects my early interest in electronics and understanding how systems work with my later interest in AI, my industrial experiences, and my applied AI projects.
+
+I have also mentioned that the Medicale recommendation project is one of my favorite projects and that I served as vice-president of a school club during my earlier university studies. The exact club name and dates are not available in this profile.
+
+The interview context should not be interpreted as evidence that I received an offer.
+
+### M Education
+
+I discussed an eight-question pre-screening for M Education in October 2026.
+
+I wanted to emphasize the difference between building a quick proof of concept and developing a robust, usable solution. Gabarit Vision IA was a relevant example because it connects image processing, an AI workflow, a backend, and a dashboard.
+
+The application outcome is not confirmed in this knowledge base.
+
+### Application style
+
+When preparing applications, I want answers tailored to the role and the employer.
+
+I prefer to emphasize the most relevant experience rather than repeat every skill in every answer. I also want to be honest about my current experience, academic status, and work authorization.
+
+## 15. PERSONALITY, WORKING STYLE, AND LEARNING APPROACH
+
+Based on my conversations and project interests, several working preferences are clear.
+
+### Curiosity and depth
+
+I often ask follow-up questions to understand how something works and why a particular solution is appropriate. I prefer understanding a concept well enough to explain and implement it rather than merely memorizing terminology.
+
+### Practical orientation
+
+I am interested in projects with a concrete objective and a functional result. I want to connect algorithms with APIs, data pipelines, dashboards, and user-facing applications.
+
+### Iterative problem-solving
+
+I frequently work through errors, configuration problems, and implementation details. I prefer to solve issues step by step and understand the reason behind a failure so that I can avoid repeating it.
+
+### Career awareness
+
+I regularly compare job requirements with my current skills and ask whether an opportunity is realistic. I want feedback that identifies both strengths and gaps instead of automatic encouragement.
+
+### Preference for clarity
+
+I appreciate clear explanations, structured steps, realistic expectations, and concrete examples. I want technical concepts explained in a way that connects theory to implementation.
+
+These are observations inferred from our interactions, not a complete psychological assessment. The assistant should not make unsupported claims about my personality, emotional state, or private life.
+
+## 16. HOW I PREFER CHATGPT TO HELP ME
+
+I prefer ChatGPT to be a practical and honest assistant that adapts to the task.
+
+### For technical questions
+
+I want explanations that build understanding. When code is required, I appreciate complete, consistent code with clear instructions about where to place it and how to run it.
+
+For debugging, I prefer a structured process: identify the cause, explain it simply, provide the correction, and tell me how to verify the result.
+
+For larger projects, I prefer an incremental approach that starts with the smallest useful working version before adding optional complexity.
+
+### For job applications
+
+I prefer concise, targeted, natural answers that sound like something I could genuinely say.
+
+I do not want generic cover letters filled with exaggerated claims. I want my industrial experience, technical projects, and motivation connected directly to the position.
+
+I appreciate honest assessments of whether my profile matches the requirements and what I can improve before applying.
+
+### For interviews
+
+I prefer realistic interview answers that are easy to speak naturally, especially in French. For many standard HR questions, a response of around 30–40 seconds is a useful target.
+
+I want answers that demonstrate motivation, teamwork, responsibility, curiosity, and technical understanding without sounding memorized or overly formal.
+
+### For learning plans
+
+I appreciate realistic estimates of the time required to learn a tool or build a project. I want priorities based on my current objectives and available time.
+
+If I have only a few hours, I prefer a small finished project with a clear purpose over a large unfinished project with too many technologies.
+
+### For writing and reports
+
+I want natural, clear writing that preserves the truth of the underlying work. For academic reports, formatting should be consistent, technical details should remain accurate, and results or references should never be fabricated.
+
+## 17. REPORTED PROJECT METRICS AND IMPORTANT LIMITATIONS
+
+The following numbers have appeared in my project descriptions:
+
+- Predictive maintenance: approximately 78% early-failure detection.
+- Reporting pipeline: approximately 60% reduction in manual reporting effort.
+- XGBoost experiment: approximately 98.2% recall, 96.1% precision, and 0.999 AUC.
+- CMAPSS-like dataset: 20,631 rows and 14 features.
+- Medical recommendation data: 16,762 raw DrugBank records, 15,235 unique records, and 4,466 approved records.
+- Medical recommendation ranking metrics: Precision@5 of 0.122, NDCG of 0.076, and MRR of 0.129.
+- Gabarit Vision IA: four traces and 125 annotated pieces in the reported development context.
+- Gabarit Vision IA: an approximate tolerance of plus or minus three centimetres.
+- Gabarit Vision IA: four out of four checkpoints described as satisfied in one real-mode configuration context.
+
+These are project-specific, self-reported details. The assistant should include them only when relevant and explain the evaluation context when available.
+
+A high experimental metric does not automatically mean that a model performs equally well on unseen data or in production. Medical recommendation metrics do not establish clinical safety. A configuration checkpoint does not necessarily prove production readiness.
+
+## 18. PROFESSIONAL NARRATIVE
+
+My professional story can be summarized as follows:
+
+I am a Tunisian engineering student developing a profile at the intersection of AI, Data Science, industrial automation, and software engineering. My earlier studies in computing and automation gave me an interest in understanding how technical systems work. Through industrial experiences and projects involving predictive maintenance, data pipelines, and computer vision, I have explored how software and AI can improve repetitive processes and support operational decisions.
+
+Projects such as Gabarit Vision IA have helped me explore the complete workflow from industrial requirements and visual inputs to AI processing, APIs, and a dashboard. My Medicale application has allowed me to explore recommendation systems, risk-oriented logic, explainability, databases, and multi-role application development.
+
+I now want to deepen these skills through a substantial final-year internship and continue building practical projects in AI engineering, Data Science, generative AI, and RAG. My objective is to become an engineer who can understand a real problem, select appropriate technical methods, build a reliable application, explain its limitations, and deliver something useful.
+
+This narrative should be adapted according to the opportunity. For an AI role, emphasize modelling, evaluation, and the AI pipeline. For a data role, emphasize SQL, ETL, analytics, and reporting. For a software role, emphasize APIs, databases, frontend integration, and application architecture. For an industrial role, emphasize the operational problem and the value of automation.
+
+## 19. DETAILS THAT MUST NOT BE INVENTED
+
+The assistant must not invent or assume:
+
+- My exact age or current personal circumstances.
+- My official diploma title if it has not been verified.
+- My current engineering year, specialization status, or graduation date if they have changed.
+- Completion of a degree or dual-degree program that is still in progress.
+- Certifications that may only be courses or learning paths.
+- Exact internship dates, titles, or responsibilities that are not documented.
+- Employment offers or successful application outcomes.
+- Exact proficiency levels in French, English, or other languages.
+- EU citizenship or unrestricted work authorization.
+- Visa sponsorship or internship funding.
+- Production deployment or company-wide adoption of my projects.
+- Clinical approval or safety validation of Medicale.
+- Implementation of every algorithm mentioned during project exploration.
+- Completion of the RAG portfolio project before I confirm that it is finished.
+- Public profile or repository URLs that have not been checked.
+
+When a fact is uncertain, the assistant should explicitly distinguish between what is known, what has been reported, what is planned, and what requires confirmation.
+
+## 20. HOW THE RAG ASSISTANT SHOULD ANSWER QUESTIONS ABOUT ME
+
+When asked who I am, summarize my education, AI and Data Science direction, industrial experience, and practical project work.
+
+When asked about my strongest projects, prioritize Gabarit Vision IA, Medicale, and predictive maintenance, selecting the projects most relevant to the question.
+
+When asked about my technical skills, group technologies by category and distinguish between demonstrated project experience and technologies I am still learning.
+
+When asked about my career goals, explain my interest in applied AI, Data Science, software development, and a substantial final-year internship/PFE, while checking current dates and requirements when necessary.
+
+When asked about a job application, use only the known information about that opportunity and ask for an update if the status is uncertain.
+
+When asked about my personality or work style, base the answer on the working preferences described here and avoid presenting inferred observations as psychological facts.
+
+When asked about an unknown personal detail, say that the current knowledge base does not contain enough information to answer reliably.
+
+The assistant should be able to answer in French or English depending on the question. It should use natural language, stay focused on the requested information, and avoid repeating the entire profile when a short answer is sufficient.
+
+The purpose of this document is to give an AI assistant a reliable, organized picture of my educational background, professional development, technical projects, ambitions, and preferences. It should help the assistant answer questions about me consistently while remaining honest about uncertainty and avoiding invented facts.
+
+END OF PERSONAL KNOWLEDGE BASE
